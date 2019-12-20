@@ -1,4 +1,5 @@
 # Exploring CNN on MNIST
+MNIST is the most commonly used computer vision dataset. This dataset consists of 60k handwritten images (42,000 training examples, 18,000 test examples) and considered as a benchmarking dataset for classification algorithms. In this exercise, we aim to accurately identify 10 handwritten digits from dataset.
 
 ### Model Summary
 
